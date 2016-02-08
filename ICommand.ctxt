@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ICommand
+comment0.text=\r\n\ Provides\ a\ interface\ for\ all\ command\ concrete\ classes\r\n\ \r\n\ @author\ Jaya\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ execute()
+comment1.text=\r\n\ Executes\ the\ command\r\n\ \r\n\ @param\ \r\n\ @return\ \ \ \ \ \r\n
+numComments=2

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Class\ MyWorld\:\ sample\ world\ to\ show\ how\ to\ make\ use\ of\ my\ world\ super-class\ SWorld\r\n
+comment1.params=
+comment1.target=void\ resetStaticVariables()
+comment1.text=\r\n\ Creates\ a\ scrolling\ world\ using\ a\ main\ actor,\ a\ background,\ some\ obstacles,\ and\ a\ non-scrolling\ score.\r\n
+comment2.params=
+comment2.target=void\ rebuild()
+comment3.params=
+comment3.target=MyWorld()
+comment4.params=
+comment4.target=void\ setStage()
+comment5.params=x\ y
+comment5.target=void\ addDecoratedBricks(int,\ int)
+comment6.params=
+comment6.target=void\ updatePointScoreboard()
+comment7.params=x\ y
+comment7.target=void\ addBricks(int,\ int)
+comment8.params=
+comment8.target=void\ addScoreboard()
+comment9.params=
+comment9.target=void\ resetScore()
+numComments=10

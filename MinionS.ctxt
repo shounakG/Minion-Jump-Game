@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MinionS
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MinionS\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=MinionS()
+comment3.params=
+comment3.target=void\ moveHorizontally()
+comment4.params=
+comment4.target=void\ moveVertically()
+comment4.text=\r\n\ This\ method\ will\ move\ mario\ vertically\ and\ then\ check\ if\ he\ should\ be\ removed\ because\ he\ is\ out\ of\ the\ world.\r\n\ It\ will\ also\ check\ if\ mario\ should\ kill\ an\ enemy\ which\ he\ is\ standing\ on.\r\n\ If\ the\ s\ key\ is\ pressed\ and\ there\ is\ a\ pipe\ below\ mario,\ the\ world\ will\ change.\r\n
+comment5.params=
+comment5.target=void\ jump()
+comment5.text=\r\n\ Moves\ the\ actor\ with\ appropriate\ image.\ \ Checks\ for\ obstacles\ and\ adjusts\r\n\ the\ position\ of\ the\ actor\ accordingly.\r\n
+comment6.params=
+comment6.target=void\ animateMario()
+comment7.params=x\ y
+comment7.target=void\ grow(int,\ int)
+comment8.params=x\ y
+comment8.target=void\ shrink(int,\ int)
+numComments=9

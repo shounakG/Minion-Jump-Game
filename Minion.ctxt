@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Minion
+comment0.text=\r\n\ A\ user-controlled\ actor\ that\ walks\ and\ jumps,\ and\ is\ pulled\ down\ by\ gravity.\r\n\ <l><li>Left\ arrow\ moves\ actor\ left\ (toward\ left\ scroll\ limit)</li>\r\n\ <li>Right\ arrow\ moves\ actor\ right\ (toward\ right\ scroll\ limit)</li>\r\n\ <li>Up\ arrow\ makes\ the\ actor\ jump</li><l>\r\n
+comment1.params=
+comment1.target=Minion()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\ \r\n\ Checks\ for\ changes\ in\ direction\ and\ moves\ the\ main\ actor.\r\n
+comment3.params=
+comment3.target=void\ moveHorizontally()
+comment4.params=
+comment4.target=void\ moveVertically()
+comment4.text=\r\n\ This\ method\ will\ move\ mario\ vertically\ and\ then\ check\ if\ he\ should\ be\ removed\ because\ he\ is\ out\ of\ the\ world.\r\n\ It\ will\ also\ check\ if\ mario\ should\ kill\ an\ enemy\ which\ he\ is\ standing\ on.\r\n\ If\ the\ s\ key\ is\ pressed\ and\ there\ is\ a\ pipe\ below\ mario,\ the\ world\ will\ change.\r\n
+comment5.params=
+comment5.target=void\ jump()
+comment5.text=\r\n\ Moves\ the\ actor\ with\ appropriate\ image.\ \ Checks\ for\ obstacles\ and\ adjusts\r\n\ the\ position\ of\ the\ actor\ accordingly.\r\n
+comment6.params=
+comment6.target=void\ animateMario()
+comment7.params=x\ y
+comment7.target=void\ grow(int,\ int)
+comment8.params=x\ y
+comment8.target=void\ shrink(int,\ int)
+numComments=9

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ConcreteSubject
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ConcreteSubject\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ConcreteSubject()
+comment2.params=
+comment2.target=int\ getStateBananaScore()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n
+comment3.params=
+comment3.target=int\ getStateLivesScore()
+comment4.params=
+comment4.target=int\ getStateAmmoScore()
+comment5.params=bananas\ lives\ ammo
+comment5.target=void\ setState(int,\ int,\ int)
+comment6.params=
+comment6.target=void\ showStateBananaScore()
+comment7.params=
+comment7.target=void\ showStateLivesScore()
+comment8.params=
+comment8.target=void\ showStateAmmoScore()
+comment9.params=
+comment9.target=void\ notifyObserver()
+numComments=10

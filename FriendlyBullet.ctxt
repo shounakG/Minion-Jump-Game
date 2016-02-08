@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FriendlyBullet
+comment0.text=\r\n\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ This\ will\ call\ the\ methods\ that\ move\ and\ remove\ the\ bullet,\ as\ well\ as\ set\ the\ direction\ for\ the\ bullet\ once.\r\n
+comment2.params=
+comment2.target=void\ setDirection()
+comment2.text=\r\n\ This\ will\ set\ the\ direction\ for\ the\ bullet\ based\ on\ mario's\ direction\ when\ the\ bullet\ was\ shot\r\n
+comment3.params=
+comment3.target=void\ moveBullet()
+comment3.text=\r\n\ This\ will\ move\ the\ Bullet\ based\ on\ the\ original\ direction\ that\ marioG\ was\ facing\r\n
+comment4.params=
+comment4.target=void\ checkCollision()
+comment4.text=\r\n\ When\ called,\ this\ will\ check\ if\ the\ bullet\ is\ colliding\ with\ any\ enemies\ or\ terrain\ objects.\r\n\ If\ the\ bullet\ hits\ an\ enemy,\ it\ will\ damage\ the\ enemy\ and\ remove\ the\ bullet.\r\n\ If\ the\ bullet\ hits\ a\ terrain\ object,\ it\ will\ remove\ the\ bullet.\r\n
+numComments=5
